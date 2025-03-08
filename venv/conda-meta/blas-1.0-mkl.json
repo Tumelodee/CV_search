@@ -1,0 +1,31 @@
+{
+  "build": "mkl",
+  "build_number": 930,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\dtume\\anaconda3\\pkgs\\blas-1.0-mkl",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "blas-1.0-mkl.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\dtume\\anaconda3\\pkgs\\blas-1.0-mkl",
+    "type": 1
+  },
+  "md5": "a0c175eeae3065d90f674c6b93429336",
+  "name": "blas",
+  "package_tarball_full_path": "C:\\Users\\dtume\\anaconda3\\pkgs\\blas-1.0-mkl.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d56e230b2a6b899551ad2fb8634966533cfc521caced4dbeb77c3a7d16df1971",
+  "size": 12160,
+  "subdir": "win-64",
+  "timestamp": 1741121199000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/blas-1.0-mkl.conda",
+  "version": "1.0"
+}

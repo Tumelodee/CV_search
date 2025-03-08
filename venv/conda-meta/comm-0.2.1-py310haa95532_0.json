@@ -1,0 +1,46 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0",
+    "traitlets >=4"
+  ],
+  "extracted_package_dir": "C:\\Users\\dtume\\anaconda3\\pkgs\\comm-0.2.1-py310haa95532_0",
+  "files": [
+    "Lib/site-packages/comm-0.2.1.dist-info/INSTALLER",
+    "Lib/site-packages/comm-0.2.1.dist-info/METADATA",
+    "Lib/site-packages/comm-0.2.1.dist-info/RECORD",
+    "Lib/site-packages/comm-0.2.1.dist-info/REQUESTED",
+    "Lib/site-packages/comm-0.2.1.dist-info/WHEEL",
+    "Lib/site-packages/comm-0.2.1.dist-info/direct_url.json",
+    "Lib/site-packages/comm-0.2.1.dist-info/licenses/LICENSE",
+    "Lib/site-packages/comm/__init__.py",
+    "Lib/site-packages/comm/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/comm/__pycache__/base_comm.cpython-310.pyc",
+    "Lib/site-packages/comm/base_comm.py",
+    "Lib/site-packages/comm/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "comm-0.2.1-py310haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\dtume\\anaconda3\\pkgs\\comm-0.2.1-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "a95a0e054e9863256aae588b0ba7c890",
+  "name": "comm",
+  "package_tarball_full_path": "C:\\Users\\dtume\\anaconda3\\pkgs\\comm-0.2.1-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4ddfcb3d39dc1df40f153cbc3ece34b70e0de1cac3f28a184db40f49bb0d10f9",
+  "size": 15851,
+  "subdir": "win-64",
+  "timestamp": 1709322968000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/comm-0.2.1-py310haa95532_0.conda",
+  "version": "0.2.1"
+}

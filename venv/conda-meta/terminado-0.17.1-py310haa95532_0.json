@@ -1,0 +1,59 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0",
+    "tornado >=6.1.0",
+    "pywinpty >=1.1.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\dtume\\anaconda3\\pkgs\\terminado-0.17.1-py310haa95532_0",
+  "files": [
+    "Lib/site-packages/terminado-0.17.1.dist-info/INSTALLER",
+    "Lib/site-packages/terminado-0.17.1.dist-info/METADATA",
+    "Lib/site-packages/terminado-0.17.1.dist-info/RECORD",
+    "Lib/site-packages/terminado-0.17.1.dist-info/REQUESTED",
+    "Lib/site-packages/terminado-0.17.1.dist-info/WHEEL",
+    "Lib/site-packages/terminado-0.17.1.dist-info/direct_url.json",
+    "Lib/site-packages/terminado-0.17.1.dist-info/licenses/LICENSE",
+    "Lib/site-packages/terminado/__init__.py",
+    "Lib/site-packages/terminado/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/terminado/__pycache__/_version.cpython-310.pyc",
+    "Lib/site-packages/terminado/__pycache__/management.cpython-310.pyc",
+    "Lib/site-packages/terminado/__pycache__/uimodule.cpython-310.pyc",
+    "Lib/site-packages/terminado/__pycache__/websocket.cpython-310.pyc",
+    "Lib/site-packages/terminado/_static/terminado.js",
+    "Lib/site-packages/terminado/_version.py",
+    "Lib/site-packages/terminado/management.py",
+    "Lib/site-packages/terminado/py.typed",
+    "Lib/site-packages/terminado/tests/__init__.py",
+    "Lib/site-packages/terminado/tests/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/terminado/tests/__pycache__/basic_test.cpython-310.pyc",
+    "Lib/site-packages/terminado/tests/basic_test.py",
+    "Lib/site-packages/terminado/uimod_embed.js",
+    "Lib/site-packages/terminado/uimodule.py",
+    "Lib/site-packages/terminado/websocket.py",
+    ".nonadmin"
+  ],
+  "fn": "terminado-0.17.1-py310haa95532_0.conda",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "C:\\Users\\dtume\\anaconda3\\pkgs\\terminado-0.17.1-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "c324e7841f2581fa025e06e9606e34c8",
+  "name": "terminado",
+  "package_tarball_full_path": "C:\\Users\\dtume\\anaconda3\\pkgs\\terminado-0.17.1-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "16477c392a52f9ac6d25e49f2158baa49f8dd8f7b95444220e412fc3c6c2a50b",
+  "size": 33496,
+  "subdir": "win-64",
+  "timestamp": 1671752231000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/terminado-0.17.1-py310haa95532_0.conda",
+  "version": "0.17.1"
+}

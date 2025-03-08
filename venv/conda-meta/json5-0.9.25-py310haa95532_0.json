@@ -1,0 +1,61 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\dtume\\anaconda3\\pkgs\\json5-0.9.25-py310haa95532_0",
+  "files": [
+    "Lib/site-packages/json5-0.9.25.dist-info/INSTALLER",
+    "Lib/site-packages/json5-0.9.25.dist-info/LICENSE",
+    "Lib/site-packages/json5-0.9.25.dist-info/METADATA",
+    "Lib/site-packages/json5-0.9.25.dist-info/RECORD",
+    "Lib/site-packages/json5-0.9.25.dist-info/REQUESTED",
+    "Lib/site-packages/json5-0.9.25.dist-info/WHEEL",
+    "Lib/site-packages/json5-0.9.25.dist-info/direct_url.json",
+    "Lib/site-packages/json5-0.9.25.dist-info/entry_points.txt",
+    "Lib/site-packages/json5-0.9.25.dist-info/top_level.txt",
+    "Lib/site-packages/json5/__init__.py",
+    "Lib/site-packages/json5/__main__.py",
+    "Lib/site-packages/json5/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/json5/__pycache__/__main__.cpython-310.pyc",
+    "Lib/site-packages/json5/__pycache__/arg_parser.cpython-310.pyc",
+    "Lib/site-packages/json5/__pycache__/host.cpython-310.pyc",
+    "Lib/site-packages/json5/__pycache__/lib.cpython-310.pyc",
+    "Lib/site-packages/json5/__pycache__/parser.cpython-310.pyc",
+    "Lib/site-packages/json5/__pycache__/tool.cpython-310.pyc",
+    "Lib/site-packages/json5/__pycache__/version.cpython-310.pyc",
+    "Lib/site-packages/json5/arg_parser.py",
+    "Lib/site-packages/json5/host.py",
+    "Lib/site-packages/json5/lib.py",
+    "Lib/site-packages/json5/parser.py",
+    "Lib/site-packages/json5/py.typed",
+    "Lib/site-packages/json5/tool.py",
+    "Lib/site-packages/json5/version.py",
+    "Scripts/pyjson5-script.py",
+    "Scripts/pyjson5.exe",
+    ".nonadmin"
+  ],
+  "fn": "json5-0.9.25-py310haa95532_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\dtume\\anaconda3\\pkgs\\json5-0.9.25-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "58e98f700ffa5240487ed6dc68189ec8",
+  "name": "json5",
+  "package_tarball_full_path": "C:\\Users\\dtume\\anaconda3\\pkgs\\json5-0.9.25-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "9a77da03336fa4ca7825c53c757d913ca5db02da928f142302bae4240e9d4ab5",
+  "size": 75612,
+  "subdir": "win-64",
+  "timestamp": 1730787180000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/json5-0.9.25-py310haa95532_0.conda",
+  "version": "0.9.25"
+}

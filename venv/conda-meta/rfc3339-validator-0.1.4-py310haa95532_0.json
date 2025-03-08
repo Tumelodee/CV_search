@@ -1,0 +1,45 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "six",
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\dtume\\anaconda3\\pkgs\\rfc3339-validator-0.1.4-py310haa95532_0",
+  "files": [
+    "Lib/site-packages/__pycache__/rfc3339_validator.cpython-310.pyc",
+    "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/AUTHORS.rst",
+    "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/INSTALLER",
+    "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/LICENSE",
+    "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/METADATA",
+    "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/RECORD",
+    "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/REQUESTED",
+    "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/WHEEL",
+    "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/direct_url.json",
+    "Lib/site-packages/rfc3339_validator-0.1.4.dist-info/top_level.txt",
+    "Lib/site-packages/rfc3339_validator.py",
+    ".nonadmin"
+  ],
+  "fn": "rfc3339-validator-0.1.4-py310haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\dtume\\anaconda3\\pkgs\\rfc3339-validator-0.1.4-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "129d98b4380c2ca728717a6920a51ab4",
+  "name": "rfc3339-validator",
+  "package_tarball_full_path": "C:\\Users\\dtume\\anaconda3\\pkgs\\rfc3339-validator-0.1.4-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4b8b08fddb2a0062c5a0a7a4ad4ede726b4237e51c7cf5c0e75c0bde1fbefe06",
+  "size": 10154,
+  "subdir": "win-64",
+  "timestamp": 1683077232000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/rfc3339-validator-0.1.4-py310haa95532_0.conda",
+  "version": "0.1.4"
+}

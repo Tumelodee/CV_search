@@ -1,0 +1,61 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\dtume\\anaconda3\\pkgs\\python-json-logger-3.2.1-py310haa95532_0",
+  "files": [
+    "Lib/site-packages/python_json_logger-3.2.1.dist-info/INSTALLER",
+    "Lib/site-packages/python_json_logger-3.2.1.dist-info/LICENSE",
+    "Lib/site-packages/python_json_logger-3.2.1.dist-info/METADATA",
+    "Lib/site-packages/python_json_logger-3.2.1.dist-info/NOTICE",
+    "Lib/site-packages/python_json_logger-3.2.1.dist-info/RECORD",
+    "Lib/site-packages/python_json_logger-3.2.1.dist-info/REQUESTED",
+    "Lib/site-packages/python_json_logger-3.2.1.dist-info/WHEEL",
+    "Lib/site-packages/python_json_logger-3.2.1.dist-info/direct_url.json",
+    "Lib/site-packages/python_json_logger-3.2.1.dist-info/top_level.txt",
+    "Lib/site-packages/pythonjsonlogger/__init__.py",
+    "Lib/site-packages/pythonjsonlogger/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/pythonjsonlogger/__pycache__/core.cpython-310.pyc",
+    "Lib/site-packages/pythonjsonlogger/__pycache__/defaults.cpython-310.pyc",
+    "Lib/site-packages/pythonjsonlogger/__pycache__/exception.cpython-310.pyc",
+    "Lib/site-packages/pythonjsonlogger/__pycache__/json.cpython-310.pyc",
+    "Lib/site-packages/pythonjsonlogger/__pycache__/jsonlogger.cpython-310.pyc",
+    "Lib/site-packages/pythonjsonlogger/__pycache__/msgspec.cpython-310.pyc",
+    "Lib/site-packages/pythonjsonlogger/__pycache__/orjson.cpython-310.pyc",
+    "Lib/site-packages/pythonjsonlogger/__pycache__/utils.cpython-310.pyc",
+    "Lib/site-packages/pythonjsonlogger/core.py",
+    "Lib/site-packages/pythonjsonlogger/defaults.py",
+    "Lib/site-packages/pythonjsonlogger/exception.py",
+    "Lib/site-packages/pythonjsonlogger/json.py",
+    "Lib/site-packages/pythonjsonlogger/jsonlogger.py",
+    "Lib/site-packages/pythonjsonlogger/msgspec.py",
+    "Lib/site-packages/pythonjsonlogger/orjson.py",
+    "Lib/site-packages/pythonjsonlogger/py.typed",
+    "Lib/site-packages/pythonjsonlogger/utils.py",
+    ".nonadmin"
+  ],
+  "fn": "python-json-logger-3.2.1-py310haa95532_0.conda",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "C:\\Users\\dtume\\anaconda3\\pkgs\\python-json-logger-3.2.1-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "8d81b6c755674fb47ef22caa77c35476",
+  "name": "python-json-logger",
+  "package_tarball_full_path": "C:\\Users\\dtume\\anaconda3\\pkgs\\python-json-logger-3.2.1-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "af09fece0564f77b7c4de3800d72e9daa9d1c2a8876f9366370a1371845c2ab8",
+  "size": 25955,
+  "subdir": "win-64",
+  "timestamp": 1734370108000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/python-json-logger-3.2.1-py310haa95532_0.conda",
+  "version": "3.2.1"
+}

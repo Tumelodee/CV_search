@@ -1,0 +1,47 @@
+{
+  "build": "py310haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\dtume\\anaconda3\\pkgs\\webencodings-0.5.1-py310haa95532_1",
+  "files": [
+    "Lib/site-packages/webencodings-0.5.1-py3.10.egg-info/PKG-INFO",
+    "Lib/site-packages/webencodings-0.5.1-py3.10.egg-info/SOURCES.txt",
+    "Lib/site-packages/webencodings-0.5.1-py3.10.egg-info/dependency_links.txt",
+    "Lib/site-packages/webencodings-0.5.1-py3.10.egg-info/top_level.txt",
+    "Lib/site-packages/webencodings/__init__.py",
+    "Lib/site-packages/webencodings/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/webencodings/__pycache__/labels.cpython-310.pyc",
+    "Lib/site-packages/webencodings/__pycache__/mklabels.cpython-310.pyc",
+    "Lib/site-packages/webencodings/__pycache__/tests.cpython-310.pyc",
+    "Lib/site-packages/webencodings/__pycache__/x_user_defined.cpython-310.pyc",
+    "Lib/site-packages/webencodings/labels.py",
+    "Lib/site-packages/webencodings/mklabels.py",
+    "Lib/site-packages/webencodings/tests.py",
+    "Lib/site-packages/webencodings/x_user_defined.py",
+    ".nonadmin"
+  ],
+  "fn": "webencodings-0.5.1-py310haa95532_1.conda",
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "C:\\Users\\dtume\\anaconda3\\pkgs\\webencodings-0.5.1-py310haa95532_1",
+    "type": 1
+  },
+  "md5": "601978d16df29ff340465ae96bef881a",
+  "name": "webencodings",
+  "package_tarball_full_path": "C:\\Users\\dtume\\anaconda3\\pkgs\\webencodings-0.5.1-py310haa95532_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "5bebcdaa5dcefcc3e81931bab423998933125b69d1577679f411bef505e37ed1",
+  "size": 21298,
+  "subdir": "win-64",
+  "timestamp": 1642093965000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/webencodings-0.5.1-py310haa95532_1.conda",
+  "version": "0.5.1"
+}

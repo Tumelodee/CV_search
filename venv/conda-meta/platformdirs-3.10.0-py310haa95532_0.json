@@ -1,0 +1,57 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\dtume\\anaconda3\\pkgs\\platformdirs-3.10.0-py310haa95532_0",
+  "files": [
+    "Lib/site-packages/platformdirs-3.10.0.dist-info/INSTALLER",
+    "Lib/site-packages/platformdirs-3.10.0.dist-info/METADATA",
+    "Lib/site-packages/platformdirs-3.10.0.dist-info/RECORD",
+    "Lib/site-packages/platformdirs-3.10.0.dist-info/REQUESTED",
+    "Lib/site-packages/platformdirs-3.10.0.dist-info/WHEEL",
+    "Lib/site-packages/platformdirs-3.10.0.dist-info/direct_url.json",
+    "Lib/site-packages/platformdirs-3.10.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/platformdirs/__init__.py",
+    "Lib/site-packages/platformdirs/__main__.py",
+    "Lib/site-packages/platformdirs/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/__main__.cpython-310.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/android.cpython-310.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/api.cpython-310.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/macos.cpython-310.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/unix.cpython-310.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/version.cpython-310.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/windows.cpython-310.pyc",
+    "Lib/site-packages/platformdirs/android.py",
+    "Lib/site-packages/platformdirs/api.py",
+    "Lib/site-packages/platformdirs/macos.py",
+    "Lib/site-packages/platformdirs/py.typed",
+    "Lib/site-packages/platformdirs/unix.py",
+    "Lib/site-packages/platformdirs/version.py",
+    "Lib/site-packages/platformdirs/windows.py",
+    ".nonadmin"
+  ],
+  "fn": "platformdirs-3.10.0-py310haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\dtume\\anaconda3\\pkgs\\platformdirs-3.10.0-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "4f85906322c84cbc0e25af99aa5b964d",
+  "name": "platformdirs",
+  "package_tarball_full_path": "C:\\Users\\dtume\\anaconda3\\pkgs\\platformdirs-3.10.0-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "811bb4c9bef5d4c55aac54cf1fcaba7205112b9c25ae1018e75ddd4e9d672d29",
+  "size": 36388,
+  "subdir": "win-64",
+  "timestamp": 1692205629000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/platformdirs-3.10.0-py310haa95532_0.conda",
+  "version": "3.10.0"
+}

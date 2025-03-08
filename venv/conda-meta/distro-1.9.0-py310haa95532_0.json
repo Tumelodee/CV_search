@@ -1,0 +1,178 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\dtume\\anaconda3\\pkgs\\distro-1.9.0-py310haa95532_0",
+  "files": [
+    "Lib/site-packages/distro-1.9.0.dist-info/INSTALLER",
+    "Lib/site-packages/distro-1.9.0.dist-info/LICENSE",
+    "Lib/site-packages/distro-1.9.0.dist-info/METADATA",
+    "Lib/site-packages/distro-1.9.0.dist-info/RECORD",
+    "Lib/site-packages/distro-1.9.0.dist-info/REQUESTED",
+    "Lib/site-packages/distro-1.9.0.dist-info/WHEEL",
+    "Lib/site-packages/distro-1.9.0.dist-info/direct_url.json",
+    "Lib/site-packages/distro-1.9.0.dist-info/entry_points.txt",
+    "Lib/site-packages/distro-1.9.0.dist-info/top_level.txt",
+    "Lib/site-packages/distro/__init__.py",
+    "Lib/site-packages/distro/__main__.py",
+    "Lib/site-packages/distro/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/distro/__pycache__/__main__.cpython-310.pyc",
+    "Lib/site-packages/distro/__pycache__/distro.cpython-310.pyc",
+    "Lib/site-packages/distro/distro.py",
+    "Lib/site-packages/distro/py.typed",
+    "Scripts/distro-script.py",
+    "Scripts/distro.exe",
+    ".nonadmin"
+  ],
+  "fn": "distro-1.9.0-py310haa95532_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\dtume\\anaconda3\\pkgs\\distro-1.9.0-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "d746776cda8ef4fd083bf331ab2f6798",
+  "name": "distro",
+  "package_tarball_full_path": "C:\\Users\\dtume\\anaconda3\\pkgs\\distro-1.9.0-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/distro-1.9.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/distro-1.9.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "cb5e8e7e5f4a3988e1063c142c60dc2df75605f4c46515e776e3aca6df976e14",
+        "sha256_in_prefix": "cb5e8e7e5f4a3988e1063c142c60dc2df75605f4c46515e776e3aca6df976e14",
+        "size_in_bytes": 11325
+      },
+      {
+        "_path": "Lib/site-packages/distro-1.9.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "0d98879e4225b1cb7b3c5aee610931d56fdfc97680705e2d3beb2d10ddb1ea12",
+        "sha256_in_prefix": "0d98879e4225b1cb7b3c5aee610931d56fdfc97680705e2d3beb2d10ddb1ea12",
+        "size_in_bytes": 6975
+      },
+      {
+        "_path": "Lib/site-packages/distro-1.9.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "9cc29b5ae3d1274fac9245dd51700a7307eae313508332eab504467daec02382",
+        "sha256_in_prefix": "9cc29b5ae3d1274fac9245dd51700a7307eae313508332eab504467daec02382",
+        "size_in_bytes": 1266
+      },
+      {
+        "_path": "Lib/site-packages/distro-1.9.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/distro-1.9.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "sha256_in_prefix": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/distro-1.9.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "e63f8cc31580d0d555788f751cd3e79a04f00ad8bc85188f8122350e8ac1714c",
+        "sha256_in_prefix": "e63f8cc31580d0d555788f751cd3e79a04f00ad8bc85188f8122350e8ac1714c",
+        "size_in_bytes": 86
+      },
+      {
+        "_path": "Lib/site-packages/distro-1.9.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "dce6e3a9031b875c5e410c2c5ad81b7c33433030fe11b8204753a3ff3f2cf617",
+        "sha256_in_prefix": "dce6e3a9031b875c5e410c2c5ad81b7c33433030fe11b8204753a3ff3f2cf617",
+        "size_in_bytes": 46
+      },
+      {
+        "_path": "Lib/site-packages/distro-1.9.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "8a475efd5fd711d481a9a19de6d12b88dff0cd81cb8135ffcd5b65b062c7bf04",
+        "sha256_in_prefix": "8a475efd5fd711d481a9a19de6d12b88dff0cd81cb8135ffcd5b65b062c7bf04",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "Lib/site-packages/distro/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d9f1e317e49f80fbe3c8d67588787fc23a96751fd8a393831f0642d232c13e17",
+        "sha256_in_prefix": "d9f1e317e49f80fbe3c8d67588787fc23a96751fd8a393831f0642d232c13e17",
+        "size_in_bytes": 981
+      },
+      {
+        "_path": "Lib/site-packages/distro/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "6eef5ddd389fa0a72264572a441bb2815dc64ae4e19d50ff9b620ae1ccfde95b",
+        "sha256_in_prefix": "6eef5ddd389fa0a72264572a441bb2815dc64ae4e19d50ff9b620ae1ccfde95b",
+        "size_in_bytes": 64
+      },
+      {
+        "_path": "Lib/site-packages/distro/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "195250347e12cc149f9eb988492b54cdca69d629d2b4788e68773454a8aaac79",
+        "sha256_in_prefix": "195250347e12cc149f9eb988492b54cdca69d629d2b4788e68773454a8aaac79",
+        "size_in_bytes": 854
+      },
+      {
+        "_path": "Lib/site-packages/distro/__pycache__/__main__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "ac03326ab50266cb2d022144d4e5b3040cf1b9229d66b6d955763ad7b47107f5",
+        "sha256_in_prefix": "ac03326ab50266cb2d022144d4e5b3040cf1b9229d66b6d955763ad7b47107f5",
+        "size_in_bytes": 208
+      },
+      {
+        "_path": "Lib/site-packages/distro/__pycache__/distro.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "0e377d7a05f568f99a6deafbdc57839703e530b2b2863338dcdf7e62697e6c46",
+        "sha256_in_prefix": "0e377d7a05f568f99a6deafbdc57839703e530b2b2863338dcdf7e62697e6c46",
+        "size_in_bytes": 42091
+      },
+      {
+        "_path": "Lib/site-packages/distro/distro.py",
+        "path_type": "hardlink",
+        "sha256": "5ea6de7da7008434f8cebfedae76c0d79798f2f74ae064e08609af506ac433fe",
+        "sha256_in_prefix": "5ea6de7da7008434f8cebfedae76c0d79798f2f74ae064e08609af506ac433fe",
+        "size_in_bytes": 49430
+      },
+      {
+        "_path": "Lib/site-packages/distro/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Scripts/distro-script.py",
+        "path_type": "hardlink",
+        "sha256": "3c5be0a683cb6bc6da3599dbcaeb22d65f062c7ee905bba72e216f1f6f5aadc5",
+        "sha256_in_prefix": "3c5be0a683cb6bc6da3599dbcaeb22d65f062c7ee905bba72e216f1f6f5aadc5",
+        "size_in_bytes": 207
+      },
+      {
+        "_path": "Scripts/distro.exe",
+        "path_type": "hardlink",
+        "sha256": "7aa2dd3f05741de6ad2a27b2c6477d1cc1530f9fa24c6da830d893abd1196601",
+        "sha256_in_prefix": "7aa2dd3f05741de6ad2a27b2c6477d1cc1530f9fa24c6da830d893abd1196601",
+        "size_in_bytes": 54040
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ae9a93eb3b73369a491414c532019758df48df90295dc117bff7bed16fadcc71",
+  "size": 57875,
+  "subdir": "win-64",
+  "timestamp": 1714488675000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/distro-1.9.0-py310haa95532_0.conda",
+  "version": "1.9.0"
+}

@@ -1,0 +1,196 @@
+{
+  "build": "py310h827c3e9_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\dtume\\anaconda3\\pkgs\\propcache-0.2.0-py310h827c3e9_0",
+  "files": [
+    "Lib/site-packages/propcache-0.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/propcache-0.2.0.dist-info/LICENSE",
+    "Lib/site-packages/propcache-0.2.0.dist-info/METADATA",
+    "Lib/site-packages/propcache-0.2.0.dist-info/NOTICE",
+    "Lib/site-packages/propcache-0.2.0.dist-info/RECORD",
+    "Lib/site-packages/propcache-0.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/propcache-0.2.0.dist-info/WHEEL",
+    "Lib/site-packages/propcache-0.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/propcache-0.2.0.dist-info/top_level.txt",
+    "Lib/site-packages/propcache/__init__.py",
+    "Lib/site-packages/propcache/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/propcache/__pycache__/_helpers.cpython-310.pyc",
+    "Lib/site-packages/propcache/__pycache__/_helpers_py.cpython-310.pyc",
+    "Lib/site-packages/propcache/__pycache__/api.cpython-310.pyc",
+    "Lib/site-packages/propcache/_helpers.py",
+    "Lib/site-packages/propcache/_helpers_c.cp310-win_amd64.pyd",
+    "Lib/site-packages/propcache/_helpers_c.pyx",
+    "Lib/site-packages/propcache/_helpers_py.py",
+    "Lib/site-packages/propcache/api.py",
+    "Lib/site-packages/propcache/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "propcache-0.2.0-py310h827c3e9_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\dtume\\anaconda3\\pkgs\\propcache-0.2.0-py310h827c3e9_0",
+    "type": 1
+  },
+  "md5": "1bc8e5309d81ea0df395810a349c15e9",
+  "name": "propcache",
+  "package_tarball_full_path": "C:\\Users\\dtume\\anaconda3\\pkgs\\propcache-0.2.0-py310h827c3e9_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/propcache-0.2.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/propcache-0.2.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "sha256_in_prefix": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "size_in_bytes": 11358
+      },
+      {
+        "_path": "Lib/site-packages/propcache-0.2.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "5231982f95bae289b7e01c636e4786005f2adfbe6f5a958fb2d2c779bbe88aa3",
+        "sha256_in_prefix": "5231982f95bae289b7e01c636e4786005f2adfbe6f5a958fb2d2c779bbe88aa3",
+        "size_in_bytes": 7936
+      },
+      {
+        "_path": "Lib/site-packages/propcache-0.2.0.dist-info/NOTICE",
+        "path_type": "hardlink",
+        "sha256": "56d6ac6c8105c0a51304c21db060e361af9a8ea0af9a75c239c28b5d13693838",
+        "sha256_in_prefix": "56d6ac6c8105c0a51304c21db060e361af9a8ea0af9a75c239c28b5d13693838",
+        "size_in_bytes": 609
+      },
+      {
+        "_path": "Lib/site-packages/propcache-0.2.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "7c112cd8e9c1e8ddfa149456279ab42066e5cba959a59975447cce301d0ebc6e",
+        "sha256_in_prefix": "7c112cd8e9c1e8ddfa149456279ab42066e5cba959a59975447cce301d0ebc6e",
+        "size_in_bytes": 1534
+      },
+      {
+        "_path": "Lib/site-packages/propcache-0.2.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/propcache-0.2.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "d198ef3a5024461885cf42049b9910ac2f436fdcc608bcf239c80b974929cf15",
+        "sha256_in_prefix": "d198ef3a5024461885cf42049b9910ac2f436fdcc608bcf239c80b974929cf15",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "Lib/site-packages/propcache-0.2.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "80558423e56e03473327b0aab36c75a95b91de4448d373d8242e5bc7235349e8",
+        "sha256_in_prefix": "80558423e56e03473327b0aab36c75a95b91de4448d373d8242e5bc7235349e8",
+        "size_in_bytes": 89
+      },
+      {
+        "_path": "Lib/site-packages/propcache-0.2.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "a5517f19ba920084cf3225f6ee47d4dd03fdfae7e146f9000e6b9d0f159d177c",
+        "sha256_in_prefix": "a5517f19ba920084cf3225f6ee47d4dd03fdfae7e146f9000e6b9d0f159d177c",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "Lib/site-packages/propcache/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "3ba09bf5988f8f14661e404e8b8c2efcd704da6040a741ad4a0368cfbaa9d641",
+        "sha256_in_prefix": "3ba09bf5988f8f14661e404e8b8c2efcd704da6040a741ad4a0368cfbaa9d641",
+        "size_in_bytes": 971
+      },
+      {
+        "_path": "Lib/site-packages/propcache/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "59392777788f1e086390a6e8e1c040b924f8306d2f02c67786cf614de66ff9c7",
+        "sha256_in_prefix": "59392777788f1e086390a6e8e1c040b924f8306d2f02c67786cf614de66ff9c7",
+        "size_in_bytes": 1023
+      },
+      {
+        "_path": "Lib/site-packages/propcache/__pycache__/_helpers.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "ab45a2a9fafd9b13843f156b88849eace6f38fd6a0e8bc433fae24fd15b0e794",
+        "sha256_in_prefix": "ab45a2a9fafd9b13843f156b88849eace6f38fd6a0e8bc433fae24fd15b0e794",
+        "size_in_bytes": 759
+      },
+      {
+        "_path": "Lib/site-packages/propcache/__pycache__/_helpers_py.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "c170b137539c4a5ed35abd845726a1e90b704058faa5640e9919a32401750368",
+        "sha256_in_prefix": "c170b137539c4a5ed35abd845726a1e90b704058faa5640e9919a32401750368",
+        "size_in_bytes": 2367
+      },
+      {
+        "_path": "Lib/site-packages/propcache/__pycache__/api.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "2a4011742c2df4256617a7517ab2302c3b9ea3550ef4c83a73789c745811ac9c",
+        "sha256_in_prefix": "2a4011742c2df4256617a7517ab2302c3b9ea3550ef4c83a73789c745811ac9c",
+        "size_in_bytes": 282
+      },
+      {
+        "_path": "Lib/site-packages/propcache/_helpers.py",
+        "path_type": "hardlink",
+        "sha256": "f029e55a67d333a4436ccbcd0d7c0bf953075a2c085231bc9db7aa9af46c6e1f",
+        "sha256_in_prefix": "f029e55a67d333a4436ccbcd0d7c0bf953075a2c085231bc9db7aa9af46c6e1f",
+        "size_in_bytes": 1579
+      },
+      {
+        "_path": "Lib/site-packages/propcache/_helpers_c.cp310-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "f70fe3373f7adf08cab105a166f3c4377b5e805bfea169bca6c2a29c63c68210",
+        "sha256_in_prefix": "f70fe3373f7adf08cab105a166f3c4377b5e805bfea169bca6c2a29c63c68210",
+        "size_in_bytes": 86288
+      },
+      {
+        "_path": "Lib/site-packages/propcache/_helpers_c.pyx",
+        "path_type": "hardlink",
+        "sha256": "62869c37fd955f5196ace78636a285b7126eeb06bde71d5ca3bafc48e5899da3",
+        "sha256_in_prefix": "62869c37fd955f5196ace78636a285b7126eeb06bde71d5ca3bafc48e5899da3",
+        "size_in_bytes": 2603
+      },
+      {
+        "_path": "Lib/site-packages/propcache/_helpers_py.py",
+        "path_type": "hardlink",
+        "sha256": "e16c15bb8f7cb014ae6468671200656936e558fde5a1cb5efff0eb9a4d517059",
+        "sha256_in_prefix": "e16c15bb8f7cb014ae6468671200656936e558fde5a1cb5efff0eb9a4d517059",
+        "size_in_bytes": 1793
+      },
+      {
+        "_path": "Lib/site-packages/propcache/api.py",
+        "path_type": "hardlink",
+        "sha256": "c2f801fb2a64908e6e7fbd9555897634519cfd39f35100360b10bb75394be5a9",
+        "sha256_in_prefix": "c2f801fb2a64908e6e7fbd9555897634519cfd39f35100360b10bb75394be5a9",
+        "size_in_bytes": 179
+      },
+      {
+        "_path": "Lib/site-packages/propcache/py.typed",
+        "path_type": "hardlink",
+        "sha256": "6b2e4e30ee3be4f95c67f15bba7f666875bb63a3014e4d145cbe33b47c7722e8",
+        "sha256_in_prefix": "6b2e4e30ee3be4f95c67f15bba7f666875bb63a3014e4d145cbe33b47c7722e8",
+        "size_in_bytes": 14
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "74ba3205aa92692439683961badf765aabe8c9f513b5c78b4ed0c149ad0763e5",
+  "size": 56704,
+  "subdir": "win-64",
+  "timestamp": 1732304471000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/propcache-0.2.0-py310h827c3e9_0.conda",
+  "version": "0.2.0"
+}

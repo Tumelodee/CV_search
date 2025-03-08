@@ -1,0 +1,62 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\dtume\\anaconda3\\pkgs\\python-fastjsonschema-2.20.0-py310haa95532_0",
+  "files": [
+    "Lib/site-packages/fastjsonschema-2.20.0.dist-info/AUTHORS",
+    "Lib/site-packages/fastjsonschema-2.20.0.dist-info/INSTALLER",
+    "Lib/site-packages/fastjsonschema-2.20.0.dist-info/LICENSE",
+    "Lib/site-packages/fastjsonschema-2.20.0.dist-info/METADATA",
+    "Lib/site-packages/fastjsonschema-2.20.0.dist-info/RECORD",
+    "Lib/site-packages/fastjsonschema-2.20.0.dist-info/REQUESTED",
+    "Lib/site-packages/fastjsonschema-2.20.0.dist-info/WHEEL",
+    "Lib/site-packages/fastjsonschema-2.20.0.dist-info/direct_url.json",
+    "Lib/site-packages/fastjsonschema-2.20.0.dist-info/top_level.txt",
+    "Lib/site-packages/fastjsonschema/__init__.py",
+    "Lib/site-packages/fastjsonschema/__main__.py",
+    "Lib/site-packages/fastjsonschema/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/fastjsonschema/__pycache__/__main__.cpython-310.pyc",
+    "Lib/site-packages/fastjsonschema/__pycache__/draft04.cpython-310.pyc",
+    "Lib/site-packages/fastjsonschema/__pycache__/draft06.cpython-310.pyc",
+    "Lib/site-packages/fastjsonschema/__pycache__/draft07.cpython-310.pyc",
+    "Lib/site-packages/fastjsonschema/__pycache__/exceptions.cpython-310.pyc",
+    "Lib/site-packages/fastjsonschema/__pycache__/generator.cpython-310.pyc",
+    "Lib/site-packages/fastjsonschema/__pycache__/indent.cpython-310.pyc",
+    "Lib/site-packages/fastjsonschema/__pycache__/ref_resolver.cpython-310.pyc",
+    "Lib/site-packages/fastjsonschema/__pycache__/version.cpython-310.pyc",
+    "Lib/site-packages/fastjsonschema/draft04.py",
+    "Lib/site-packages/fastjsonschema/draft06.py",
+    "Lib/site-packages/fastjsonschema/draft07.py",
+    "Lib/site-packages/fastjsonschema/exceptions.py",
+    "Lib/site-packages/fastjsonschema/generator.py",
+    "Lib/site-packages/fastjsonschema/indent.py",
+    "Lib/site-packages/fastjsonschema/ref_resolver.py",
+    "Lib/site-packages/fastjsonschema/version.py",
+    ".nonadmin"
+  ],
+  "fn": "python-fastjsonschema-2.20.0-py310haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\dtume\\anaconda3\\pkgs\\python-fastjsonschema-2.20.0-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "98207ee27ff0aa824d1ef9b1be5a1d9e",
+  "name": "python-fastjsonschema",
+  "package_tarball_full_path": "C:\\Users\\dtume\\anaconda3\\pkgs\\python-fastjsonschema-2.20.0-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "1e19bf5c3bb3673bf79df5fd1b154deff31684cf5422533565655d25c76ae720",
+  "size": 256215,
+  "subdir": "win-64",
+  "timestamp": 1731939691000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/python-fastjsonschema-2.20.0-py310haa95532_0.conda",
+  "version": "2.20.0"
+}

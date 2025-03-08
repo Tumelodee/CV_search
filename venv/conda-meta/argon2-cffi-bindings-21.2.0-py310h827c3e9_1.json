@@ -1,0 +1,49 @@
+{
+  "build": "py310h827c3e9_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0",
+    "cffi >=1.0.1"
+  ],
+  "extracted_package_dir": "C:\\Users\\dtume\\anaconda3\\pkgs\\argon2-cffi-bindings-21.2.0-py310h827c3e9_1",
+  "files": [
+    "Lib/site-packages/_argon2_cffi_bindings/__init__.py",
+    "Lib/site-packages/_argon2_cffi_bindings/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/_argon2_cffi_bindings/__pycache__/_ffi_build.cpython-310.pyc",
+    "Lib/site-packages/_argon2_cffi_bindings/_ffi.pyd",
+    "Lib/site-packages/_argon2_cffi_bindings/_ffi_build.py",
+    "Lib/site-packages/argon2_cffi_bindings-21.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/argon2_cffi_bindings-21.2.0.dist-info/LICENSE",
+    "Lib/site-packages/argon2_cffi_bindings-21.2.0.dist-info/METADATA",
+    "Lib/site-packages/argon2_cffi_bindings-21.2.0.dist-info/RECORD",
+    "Lib/site-packages/argon2_cffi_bindings-21.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/argon2_cffi_bindings-21.2.0.dist-info/WHEEL",
+    "Lib/site-packages/argon2_cffi_bindings-21.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/argon2_cffi_bindings-21.2.0.dist-info/top_level.txt",
+    ".nonadmin"
+  ],
+  "fn": "argon2-cffi-bindings-21.2.0-py310h827c3e9_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\dtume\\anaconda3\\pkgs\\argon2-cffi-bindings-21.2.0-py310h827c3e9_1",
+    "type": 1
+  },
+  "md5": "4b67695092ece585c835cb8b03c44323",
+  "name": "argon2-cffi-bindings",
+  "package_tarball_full_path": "C:\\Users\\dtume\\anaconda3\\pkgs\\argon2-cffi-bindings-21.2.0-py310h827c3e9_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4f14d101e6e0ef0fda78713a4a8d78d0726da458a4c5e812cc0e78aca9b31d5b",
+  "size": 41867,
+  "subdir": "win-64",
+  "timestamp": 1736182708000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/argon2-cffi-bindings-21.2.0-py310h827c3e9_1.conda",
+  "version": "21.2.0"
+}
